@@ -33,6 +33,7 @@ The necessary steps were carried out to obtain the results in terms of the highe
 Finally, the best combination is applied and the precision of the train set is 99.50% and those of the test set is 98.25%.
 
 
-Conclusion
+Conclusion:
+
 The best result that could be obtained was with the Deep Learning model, surpassing XGBoost, at the same time as predicted by the theory, surpassing the other Machine Learning models.
 
