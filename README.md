@@ -30,7 +30,7 @@ According to the results obtained after the application of the different machine
 
 Deep Learning:
 The necessary steps were carried out to obtain the results in terms of the highest degree of precision possible. Considering that the dataset is pre-processed by scikit-learn, there are steps that are not necessary to perform. So, the first step was to standardize the data. Then, a create_model () function was defined that creates a multilayer neural network for the problem. We pass this function name to the KerasClassifier class by the build_fn argument. The options are specified into a dictionary and passed to the configuration of the GridSearchCV. The performance and the combination of configurations for the best model are obtained.
-Finally, the best combination is applied and the accuracy of the train set is 99.50% and those of the test set is 98.25%.
+Finally, the best combination is applied and the accuracy of the train set is 99.50% and that of the test set is 98.25%.
 
 
 Conclusion:
