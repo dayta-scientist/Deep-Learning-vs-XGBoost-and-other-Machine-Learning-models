@@ -1,6 +1,5 @@
 # Deep Learning vs XGBoost and other Machine Learning models
-The main objective of this project is to carry out the development and comparison of the two most used models with the best results obtained in the Kaggle competitions: XGBoost and Deep Learning
-
+The main objective of this project is to carry out the development and comparison of the two most used models with the best results obtained in the Kaggle competitions: XGBoost and Deep Learning.
 We will also present other Machine Learning models, in order to have a measure of the degree of accuracy and adjustment of the dataset to the different applied techniques. In this way, we can see, on the one hand, that the techniques most used in competition have a reason, and on the other, any observer, analyst and decision maker can take a real dimension of the results obtained and thus draw their own conclusions.
 For this purpose, the chosen dataset is the scikit-learn Breast Cancer (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
 
